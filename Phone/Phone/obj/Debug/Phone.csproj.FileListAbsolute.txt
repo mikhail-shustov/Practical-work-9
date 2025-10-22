@@ -1,0 +1,8 @@
+C:\Users\shust\source\repos\Phone\Phone\obj\Debug\Phone.csproj.AssemblyReference.cache
+C:\Users\shust\source\repos\Phone\Phone\obj\Debug\Phone.csproj.CoreCompileInputs.cache
+C:\Users\shust\source\repos\Phone\Phone\bin\Debug\Phone.exe.config
+C:\Users\shust\source\repos\Phone\Phone\bin\Debug\Phone.exe
+C:\Users\shust\source\repos\Phone\Phone\bin\Debug\Phone.pdb
+C:\Users\shust\source\repos\Phone\Phone\obj\Debug\Phone.exe
+C:\Users\shust\source\repos\Phone\Phone\obj\Debug\Phone.pdb
+C:\Users\shust\source\repos\Phone\Phone\obj\Debug\Phone.exe.config
